@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/quachdaikhanh/appota/test_cgv/custom_modules/react-native-interact/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/quachdaikhanh/appota/test_cgv/custom_modules/react-native-interact/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/quachdaikhanh/appota/eWallet/Appota/Libraries/react-native-interact/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/quachdaikhanh/appota/eWallet/Appota/Libraries/react-native-interact/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.3/res/xml/preferences.xml"
+    }
+]

@@ -1,0 +1,6 @@
+rootProject.name = 'test_cgv'
+
+// include ':react-native-interact'
+// project(':react-native-interact').projectDir = new File(settingsDir, '../custom_modules/react-native-interact/android')
+
+include ':app'

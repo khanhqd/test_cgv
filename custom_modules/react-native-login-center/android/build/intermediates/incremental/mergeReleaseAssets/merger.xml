@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/quachdaikhanh/appota/eWallet/Appota/Libraries/react-native-login-center/android/src/main/assets"/><source path="/Users/quachdaikhanh/appota/eWallet/Appota/Libraries/react-native-login-center/android/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/quachdaikhanh/appota/eWallet/Appota/Libraries/react-native-login-center/android/src/release/assets"/></dataSet></merger>
