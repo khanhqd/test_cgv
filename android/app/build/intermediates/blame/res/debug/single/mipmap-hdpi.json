@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/quachdaikhanh/RNP/test_cgv/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/quachdaikhanh/RNP/test_cgv/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/quachdaikhanh/appota/test_cgv/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
         "source": "/Users/quachdaikhanh/appota/test_cgv/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     }

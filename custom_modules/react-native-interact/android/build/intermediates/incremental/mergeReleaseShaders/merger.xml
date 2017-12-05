@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/quachdaikhanh/appota/eWallet/Appota/Libraries/react-native-interact/android/src/main/shaders"/></dataSet><dataSet config="release"><source path="/Users/quachdaikhanh/appota/eWallet/Appota/Libraries/react-native-interact/android/src/release/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/quachdaikhanh/RNP/test_cgv/custom_modules/react-native-interact/android/src/main/shaders"/></dataSet><dataSet config="release"><source path="/Users/quachdaikhanh/RNP/test_cgv/custom_modules/react-native-interact/android/src/release/shaders"/></dataSet></merger>

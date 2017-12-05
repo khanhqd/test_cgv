@@ -19,11 +19,16 @@ const instructions = Platform.select({
   android: 'Double tap R on your keyboard to reload,\n' +
     'Shake or press menu button for dev menu',
 });
+import Interact from './custom_modules/react-native-interact';
 
 export default class App extends Component<{}> {
 
   onPressSend() {
-    alert('send')
+    Interact.sendToCGV('hello')
+    .then((data) => {
+        alert(data)
+    })
+    .catch((e) => { })
   }
 
   render() {

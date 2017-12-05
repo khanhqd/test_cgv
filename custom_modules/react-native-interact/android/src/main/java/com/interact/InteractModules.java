@@ -48,6 +48,16 @@ public class InteractModules extends ReactContextBaseJavaModule {
     }
 
     @ReactMethod
+    public void sendToCGV(String content, final Promise promise){
+        Log.e("InteractModule","Data :"+ content);
+        try{
+            promise.resolve("send data success");
+        } catch (Exception e) {
+            promise.reject("error","can not send to CGV");
+        }
+    }
+    
+    @ReactMethod
     public void checkSimulator(final Promise promise){
         //check có bluetooth k
         //baseband option

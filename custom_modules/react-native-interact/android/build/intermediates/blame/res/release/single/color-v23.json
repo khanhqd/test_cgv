@@ -6,5 +6,9 @@
     {
         "merged": "/Users/quachdaikhanh/appota/eWallet/Appota/Libraries/react-native-interact/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
         "source": "/Users/quachdaikhanh/appota/eWallet/Appota/Libraries/react-native-interact/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/quachdaikhanh/RNP/test_cgv/custom_modules/react-native-interact/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/quachdaikhanh/RNP/test_cgv/custom_modules/react-native-interact/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v23/abc_color_highlight_material.xml"
     }
 ]
